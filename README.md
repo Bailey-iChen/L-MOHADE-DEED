@@ -46,7 +46,7 @@ Run the configured 5-unit, 24-hour case:
 python python/src/main.py
 ```
 
-The entry point uses a population of 100, 10,000 iterations per run, and 5 runs. Parameters and output details are described in the [Python instructions](python/README.md).
+The Python entry point is configured for the 5-unit DEED system. See the [Python instructions](python/README.md) for configuration and output details.
 
 ### MATLAB: benchmark problems
 
