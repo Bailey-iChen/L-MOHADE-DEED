@@ -22,3 +22,11 @@ run_benchmark(platemoRoot, problemName, N, maxFE, seed)
 - `seed`: nonnegative integer random seed.
 
 Problem classes provide default objective counts and dimensions. Results are saved through PlatEMO under `Data/LMOHADE`. The entry point restores the MATLAB path and working directory when it exits.
+
+## Attribution
+
+Please cite the PlatEMO platform when using the MATLAB implementation:
+
+Ye Tian, Ran Cheng, Xingyi Zhang, and Yaochu Jin, “PlatEMO: A MATLAB Platform for Evolutionary Multi-Objective Optimization,” *IEEE Computational Intelligence Magazine*, 2017, 12(4), 73–87.
+
+Third-party copyright notices are retained in source headers. See the [upstream information](UPSTREAM_README.md) for applicable terms.
