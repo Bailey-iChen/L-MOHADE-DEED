@@ -15,7 +15,7 @@ The entry point runs `l_mohade.LMOHADE.LMOHADE` on the 5-unit, 24-hour system.
 
 The current defaults in `src/main.py` are population 100, 10,000 iterations, archive threshold 100, grid divisions 100, and `NumOfRuns = 5`. The class defaults are `LH=10000` and `L=0.08`. Random seeds are not assigned by the entry point.
 
-The manuscript specifies **30 independent runs unless otherwise stated**, and **20 runs per setting for the parameter-sensitivity and ablation studies**. The script's default of 5 runs is not the manuscript's experimental setting. Configure the run count and other settings for the experiment being performed; changing the run count alone does not establish correspondence with a manuscript experiment.
+The manuscript specifies **30 independent runs unless otherwise stated**, and **20 runs per setting for the parameter-sensitivity and ablation studies**. The script's default of 5 runs is not the manuscript's experimental setting.
 
 ## Output
 
