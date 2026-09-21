@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript and acknowledge PlatEMO where applicable."
+type: software
+title: "L-MOHADE: A Learning-driven Hunger-based Adaptive Differential Evolution for Dynamic Economic Emission Dispatch"
+authors:
+  - family-names: Chen
+    given-names: Hui
+  - family-names: Xin
+    given-names: Liming
+  - family-names: Peng
+    given-names: Jinlin

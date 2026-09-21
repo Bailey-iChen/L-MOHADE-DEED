@@ -1,0 +1,7 @@
+# Unpinned direct dependencies inferred from recovered source.
+# This is not the historical environment lock file.
+numpy
+scipy
+matplotlib
+pandas
+openpyxl
