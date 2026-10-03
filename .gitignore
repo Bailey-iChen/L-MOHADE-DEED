@@ -6,7 +6,6 @@ __pycache__/
 .venv/
 venv/
 *.asv
-matlab/PlatEMO/Data/
 results/
 outputs/
 *.log
