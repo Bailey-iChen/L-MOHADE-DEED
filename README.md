@@ -3,7 +3,7 @@
 **A Learning-driven Hunger-based Adaptive Differential Evolution for Dynamic Economic Emission Dispatch**
 
 **Authors:** Hui Chen, Liming Xin, and Jinlin Peng  
-**Manuscript status:** Submitted to *Applied Soft Computing*.
+**Manuscript status:** Revised manuscript submitted to *Applied Soft Computing*.
 
 ## Overview
 
