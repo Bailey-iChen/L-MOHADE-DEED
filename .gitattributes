@@ -1,6 +1,8 @@
-*.py text eol=lf
-*.m text eol=lf
-*.md text eol=lf
-*.txt text eol=lf
-*.json text eol=lf
-*.cff text eol=lf
+*.pdf binary
+# Preserve source bytes.
+*.py -text
+*.m -text
+*.md -text
+*.txt -text
+*.pf -text
+*.json -text

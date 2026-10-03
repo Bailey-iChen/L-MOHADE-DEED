@@ -1,0 +1,28 @@
+# Manuscript figures
+
+Original PDF assets, grouped by manuscript figure number.
+
+- Figure 1: [L-MOHADE.pdf](L-MOHADE.pdf)
+- Figure 2: [tvL_Evolution_Curve_Scientific.pdf](tvL_Evolution_Curve_Scientific.pdf)
+- Figure 3: [ZDT1.pdf](ZDT1.pdf)
+- Figure 3: [ZDT2.pdf](ZDT2.pdf)
+- Figure 3: [ZDT3.pdf](ZDT3.pdf)
+- Figure 3: [ZDT4.pdf](ZDT4.pdf)
+- Figure 3: [ZDT6.pdf](ZDT6.pdf)
+- Figure 3: [DTLZ1.pdf](DTLZ1.pdf)
+- Figure 3: [DTLZ2.pdf](DTLZ2.pdf)
+- Figure 3: [DTLZ3.pdf](DTLZ3.pdf)
+- Figure 3: [DTLZ4.pdf](DTLZ4.pdf)
+- Figure 3: [DTLZ5.pdf](DTLZ5.pdf)
+- Figure 3: [DTLZ6.pdf](DTLZ6.pdf)
+- Figure 3: [DTLZ7.pdf](DTLZ7.pdf)
+- Figure 4: [5-units-scatter.pdf](5-units-scatter.pdf)
+- Figure 4: [5-units-bar.pdf](5-units-bar.pdf)
+- Figure 5: [6-units-scatter.pdf](6-units-scatter.pdf)
+- Figure 5: [6-units-bar.pdf](6-units-bar.pdf)
+- Figure 6: [10-units-scatter.pdf](10-units-scatter.pdf)
+- Figure 6: [10-units-bar.pdf](10-units-bar.pdf)
+- Figure 7: [20-units-scatter.pdf](20-units-scatter.pdf)
+- Figure 7: [20-units-bar.pdf](20-units-bar.pdf)
+- Figure 8: [40-units-scatter.pdf](40-units-scatter.pdf)
+- Figure 8: [40-units-bar.pdf](40-units-bar.pdf)
